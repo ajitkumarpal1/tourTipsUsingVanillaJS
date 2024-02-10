@@ -1,5 +1,8 @@
-﻿# tourTipsUsingVanillaJS
+ # tourTipsUsingVanillaJS
 
+### `https://ajitkumarpal1.github.io/tourTipsUsingVanillaJS/tour.js` IMPORT THIS JS LINK TO YOUR 
+``(NOTE :- And also include bootstrap 5 dependency)``
+ 
 ```
   formvalue({
             sequence: [
